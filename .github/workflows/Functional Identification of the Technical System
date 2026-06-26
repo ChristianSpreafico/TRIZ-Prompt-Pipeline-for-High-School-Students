@@ -1,0 +1,8 @@
+Given the TECHNICAL SYSTEM identified in the previous step, the main FUNCTION is defined.
+The FUNCTION represents the fundamental transformation performed by the system and must be described in terms of:
+OBJECT → TRANSFORMATION → PRODUCT
+Extract the most well-known FUNCTION, at the lowest level of detail of OBJECT, PRODUCT and TRANSFORMATION, with reference to the TECHNICAL SYSTEM.
+By “most obvious level” we mean the user-perceived state, a general functional goal.
+(For example, for a hairdryer:
+OBJECT: wet head; PRODUCT: dry head; TRANSFORMATION: drying)
+If multiple FUNCTIONS exist, the main one is identified as the one most strongly linked to REQUIREMENT 1, briefly motivating the choice.
