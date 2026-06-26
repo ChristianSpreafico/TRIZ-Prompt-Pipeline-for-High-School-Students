@@ -1,0 +1,29 @@
+Create a 3×3 grid.
+The vertical axis represents LEVELS OF DETAIL:
+Supersystem
+System
+Subsystem
+The horizontal axis represents TIME:
+Past
+Present
+Future
+Fill each cell describing elements, their functions, available resources, and possible evolution.
+(For the hairdryer:
+Supersystem – Past
+Human body wet in a natural environment. Drying occurs through evaporation, wind, and gravity. Available resources are ambient heat and air movement.
+Supersystem – Present
+Human body in a domestic environment with support tools such as towels and air devices. Resources include electrical energy and manual interaction.
+Supersystem – Future
+Intelligent environment that actively regulates humidity and interactions between liquids and body surfaces, reducing the need for direct intervention.
+System – Past
+Hair-skin surface in contact with water. Removal occurs passively through evaporation and natural liquid flow.
+System – Present
+Hair-skin surface with water attached. Removal is assisted by external energy such as hot air, friction, or mechanical absorption.
+System – Future
+System capable of actively controlling adhesion between water and surface through wettability modulation.
+Subsystem – Past
+Water molecules attached to the surface due to surface tension. Skin and hair with natural surface energy properties.
+Subsystem – Present
+Water layer attached to micro-roughness of the surface. External energy intervention that temporarily modifies adhesion conditions.
+Subsystem – Future
+Micro-structures or physical fields capable of dynamically modifying surface energy and adhesion between water and surface, enabling controlled hydrophilic–hydrophobic transitions.)
