@@ -8,7 +8,7 @@ An educational collection of AI prompts designed to introduce **TRIZ (Theory of 
 
 This project was developed by **Edoardo Rondi**, student at **Liceo ...**, under the supervision of **Christian Spreafico** and **Daniele Landi** from the **University of Bergamo (Italy)**.
 
-The objective of this repository is to make the TRIZ methodology accessible to younger learners by combining its systematic innovation principles with the interactive capabilities of modern Large Language Models (LLMs), such as ChatGPT.
+The objective of this repository is to make the TRIZ methodology accessible to younger learners by combining its systematic innovation principles with the interactive capabilities of modern Large Language Models (LLMs), such as ChatGPT.  
 
 ---
 
