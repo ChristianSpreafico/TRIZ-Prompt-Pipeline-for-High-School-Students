@@ -1,0 +1,17 @@
+In this phase, the main contradiction is identified in terms of controllable and measurable variables.
+Definitions:
+CONTROL PARAMETER (CP): physical or operational variable directly modifiable in the system
+EVALUATION PARAMETER 1 (EP1): performance to be improved
+EVALUATION PARAMETER 2 (EP2): performance that worsens when EP1 improves
+The contradiction emerges from system behavior when varying the CONTROL PARAMETER:
+If CP increases → EP1 improves but EP2 worsens
+If CP decreases → EP2 improves but EP1 worsens
+(For the hairdryer:
+CONTROL PARAMETER
+Effective surface energy of the hair-skin system, i.e., wettability of the surface.
+EVALUATION PARAMETER 1
+Water removal speed from the surface.
+EVALUATION PARAMETER 2
+Energy consumption of the system.
+CONTRADICTION
+If the parameter is increased, water removal speed increases but energy consumption also increases. If it is decreased, energy consumption decreases but water removal speed also decreases.)
