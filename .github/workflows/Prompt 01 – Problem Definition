@@ -1,0 +1,74 @@
+# Prompt 01 – Problem Definition
+
+## Objective
+
+Define the technical system and its main requirements.
+
+This information will be used throughout the entire TRIZ Prompt Pipeline.
+
+---
+
+## Instructions
+
+Answer the following questions **one at a time**.
+
+Wait for the AI to ask the next question before continuing.
+
+### Question 1
+
+**What is the technical system?**
+
+Examples:
+
+- Hairdryer
+- Bicycle
+- Coffee machine
+- School backpack
+
+---
+
+### Question 2
+
+**What is Requirement 1?**
+
+Describe the primary function the system should achieve.
+
+Example:
+
+> Rapid drying of human hair.
+
+---
+
+### Question 3
+
+**What is Requirement 2?**
+
+Describe a second important requirement.
+
+Example:
+
+> Low energy consumption.
+
+---
+
+## Output Format
+
+The AI should store the answers as three variables.
+
+```
+TECHNICAL_SYSTEM
+REQUIREMENT_1
+REQUIREMENT_2
+```
+
+These variables will be reused in all subsequent prompts.
+
+---
+
+## Notes for the AI
+
+- Ask only one question at a time.
+- Wait for the student's answer before proceeding.
+- Do not suggest solutions yet.
+- Do not analyze the problem at this stage.
+- Simply collect the required information.
