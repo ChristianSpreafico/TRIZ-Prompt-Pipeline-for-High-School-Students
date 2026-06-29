@@ -1,0 +1,19 @@
+Continuing with the new LEVEL OF DETAIL previously found, create an Element - Name - Value (ENV) Model in table format with 5 columns and about ten rows (approximately 10 parts into which the system is divided):
+PART | ATTRIBUTE | OBJECT | PRODUCT | IDEAL PRODUCT
+Analyze how each ATTRIBUTE changes during the transformation from OBJECT to PRODUCT and define the ideal value of the attribute in the IDEAL PRODUCT.
+Example ENV model with different LEVEL OF DETAIL, for a hairdryer:
+PART | ATTRIBUTE | OBJECT | PRODUCT | IDEAL PRODUCT
+Hair | Surface moisture | Present | Absent | None
+Hair | Mechanical energy applied | Absent | Moderate | None
+Hair | Temperature | Ambient | Slightly variable | Unchanged (ambient temperature)
+Hair | Surface integrity | Intact | Intact | Perfectly intact
+Water droplet | Adhesion to hair | High | None | None
+Water droplet | Position | Attached to hair | Separated from hair | Completely removed from system
+Water droplet | Volume | Unchanged | Unchanged | Eliminated from area of interest
+Hair–droplet interface | Adhesion force | High | Reduced to zero | None
+Hair–droplet interface | Contact angle | Favorable to adhesion | Reduced | Minimum possible
+Surrounding air | Velocity | None | May increase | None
+Surrounding air | Dynamic pressure | None | May increase | None
+Applied physical field | Intensity | Absent | Present | Minimum necessary or self-generated
+Overall system | Energy consumption | None | Present | Close to zero
+Overall system | Removal time | Infinite (without intervention) | Short | Instantaneous
