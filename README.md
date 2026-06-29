@@ -26,6 +26,8 @@ Using a sequence of carefully designed AI prompts, students progressively build 
 
 The objective is not simply to obtain an answer from an AI assistant, but to learn **how to think systematically**, ask the right questions, and justify engineering decisions through logical reasoning.
 
+---
+
 # About the Project
 
 This project was developed by **Edoardo Rondi**, student at **Liceo Scientifico Statale Lorenzo Mascheroni**, under the supervision of **Christian Spreafico** and **Daniele Landi** from the **University of Bergamo (Italy)**.
@@ -37,6 +39,8 @@ Rather than simply generating solutions, the prompt pipeline encourages students
 Throughout the learning process, the AI acts as an **interactive tutor** rather than a solution generator. Students remain responsible for analyzing the problem, making decisions, and developing their own ideas, while the AI provides guidance, explanations, examples, and feedback.
 
 The result is a learning experience that combines engineering education, problem-solving, and artificial intelligence into a structured and engaging workflow.
+
+---
 
 # Why Learn TRIZ in High School?
 
@@ -62,6 +66,8 @@ Learning to think systematically helps students improve their analytical abiliti
 Whether students continue their studies in engineering, science, economics, computer science, design, or other STEM disciplines, the ability to solve problems using a structured methodology is an important advantage.
 
 Most importantly, this repository demonstrates that innovation is not a mysterious talent reserved for a few people. Like many other skills, creative problem solving can be learned, practiced, and continuously improved through the use of structured methods such as TRIZ.
+
+---
 
 # Where Is TRIZ Used?
 
@@ -90,6 +96,8 @@ For example, reducing weight while maintaining strength is a challenge that can 
 One of the main strengths of TRIZ is its ability to recognize these recurring patterns and transfer successful solution strategies from one field to another.
 
 By learning the fundamentals of TRIZ, students are introduced to the same systematic reasoning used by engineers, designers, researchers, and innovation teams to tackle real-world technical problems.
+
+---
 
 # What Is TRIZ?
 
@@ -121,6 +129,8 @@ Instead, it asks questions such as:
 By answering these questions step by step, engineers can transform complex and confusing problems into structured models that are much easier to analyze and improve.
 
 This prompt pipeline follows the same philosophy. Rather than providing immediate answers, it guides students through the TRIZ reasoning process, allowing them to understand not only **what** solution is proposed, but also **why** that solution makes sense.
+
+---
 
 # Fundamental Concepts of TRIZ
 
@@ -227,6 +237,8 @@ Examples include:
 
 These principles help transform abstract problems and contradictions into concrete solution directions.
 
+---
+
 # Why Use AI with TRIZ?
 
 Artificial Intelligence can significantly improve the learning experience of TRIZ by making the process more interactive, guided, and accessible.
@@ -259,6 +271,8 @@ The combination of TRIZ and AI has a strong educational value because it allows 
 
 In this way, ChatGPT becomes not just a tool for answers, but a tool for **thinking**, helping students develop an engineering mindset through active learning.
 
+---
+
 # Repository Purpose
 
 The main purpose of this repository is to provide a **structured learning path** for applying the TRIZ methodology using Artificial Intelligence.
@@ -283,6 +297,8 @@ The repository is designed for:
 * innovation workshops
 * university introductory courses
 * anyone interested in structured problem solving
+
+---
 
 # How the Prompt Pipeline Works
 
@@ -312,6 +328,8 @@ Instead of giving immediate solutions, it encourages students to:
 This iterative structure helps prevent information overload and makes complex engineering reasoning easier to understand.
 
 Each stage builds on the previous one, allowing students to see how a real engineering analysis evolves step by step.
+
+---
 
 # Repository Structure
 
@@ -357,6 +375,8 @@ The structure is designed to be:
 * easy to extend with new prompts or case studies
 * suitable for both classroom and self-learning use
 
+---
+
 # How to Use the Prompt Pipeline
 
 The prompts in this repository are designed to be used in a **sequential learning flow**.
@@ -375,6 +395,8 @@ Each prompt builds on the information collected in the previous steps. For this 
 The quality of the final analysis depends on the consistency and clarity of the responses given throughout the pipeline.
 
 This approach allows students to experience TRIZ not as a static theory, but as a **guided reasoning process**.
+
+---
 
 # Educational Goals
 
@@ -396,6 +418,8 @@ Beyond engineering, these skills are valuable in many areas, including science, 
 
 The goal is to help students move from **intuitive thinking** to **structured thinking**, using TRIZ as a practical framework.
 
+---
+
 # Intended Audience
 
 This repository is designed for anyone interested in learning structured problem-solving through TRIZ and AI.
@@ -413,6 +437,8 @@ No previous knowledge of TRIZ is required.
 
 The prompts are written in a way that makes the methodology accessible even to beginners, while still maintaining enough depth to be useful for advanced learners.
 
+---
+
 # Future Developments
 
 This project is designed to evolve over time.
@@ -429,7 +455,9 @@ Possible future improvements include:
 
 The long-term goal is to transform this repository into a **complete AI-assisted learning environment for systematic innovation**.
 
-# 📄 License
+---
+
+# License
 
 This repository is released under an open-source license.
 
@@ -437,7 +465,7 @@ You are free to use, modify, and adapt the materials for educational and non-com
 
 Please refer to the `LICENSE` file for full details regarding permissions, conditions, and limitations.
 
-
+---
 
 # Final Note
 
