@@ -331,52 +331,6 @@ Each stage builds on the previous one, allowing students to see how a real engin
 
 ---
 
-# Repository Structure
-
-The repository is organized in a simple and progressive way to make it easy to navigate and use.
-
-```
-prompts/
-│
-├── 01_Problem_Definition.md
-├── 02_...
-├── 03_...
-└── ...
-```
-
-This folder contains the main **TRIZ prompt pipeline**, divided into sequential steps. Each file represents one phase of the problem-solving process.
-
-```
-examples/
-│
-├── Hairdryer
-├── Washing Machine
-└── Other case studies
-```
-
-This folder includes **realistic examples and case studies**. These examples help students understand how TRIZ can be applied to actual engineering systems.
-
-```
-docs/
-│
-├── TRIZ theory
-├── References
-└── Additional documentation
-```
-
-This folder provides **supporting theoretical material**, including explanations of TRIZ concepts and additional learning resources.
-
----
-
-The structure is designed to be:
-
-* simple to follow
-* progressively ordered
-* easy to extend with new prompts or case studies
-* suitable for both classroom and self-learning use
-
----
-
 # How to Use the Prompt Pipeline
 
 The prompts in this repository are designed to be used in a **sequential learning flow**.
