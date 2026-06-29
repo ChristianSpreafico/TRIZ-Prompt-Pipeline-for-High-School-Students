@@ -1,0 +1,61 @@
+Establish whether it is a:
+TECHNICAL CONTRADICTION
+PHYSICAL CONTRADICTION
+Provide a brief justification.
+The classification must be consistent with the variables identified in previous steps and with relationships emerging from the ENV model.
+Use TRIZ tools:
+Contradiction Matrix
+Inventive Principles
+Separation Principles
+ARIZ
+Su-Field Analysis
+9 Windows
+Resource Analysis
+Trends of Evolution
+After identifying suitable tools, propose a concrete solution.
+EXAMPLE (hairdryer)
+TYPE OF CONTRADICTION
+Technical contradiction.
+MOTIVATION
+Increasing airflow intensity increases drying speed but also increases energy consumption.
+UNDERLYING PHYSICAL CONTRADICTION
+Water must remain attached to the surface for system stability, but must be removed quickly for efficient drying.
+TRIZ TOOLS USED
+Contradiction Matrix
+Identifies principles useful for improving removal without proportional energy increase.
+Inventive Principles
+Enable dynamic modification of interface conditions and use of alternative physical fields.
+Separation Principles
+Separate the conflict between adhesion and detachment in time and space.
+Su-Field Analysis
+Highlights inefficiencies in fluid–surface–field interaction.
+9 Windows
+Expands analysis across system and time levels to identify non-obvious alternatives.
+Resource Analysis
+Exploits existing forces such as surface tension, gravity, and micro-interactions.
+Trends of Evolution
+Indicates progressive reduction of external energy dependency and increased interface control.
+CONCRETE SOLUTION
+Surfaces with dynamic wettability that temporarily reduce liquid adhesion, enabling spontaneous detachment without continuous external energy input.
+SYSTEM RESOLUTION
+Increasing the intensity of the physical field increases contaminant removal effectiveness but also increases energy consumption and system complexity.
+The system is therefore in a condition where it must simultaneously ensure:
+high interaction to destabilize contaminant–surface adhesion
+low interaction to reduce energy and system complexity
+TRIZ TOOLS USED
+Contradiction Matrix
+Identifies principles for improving separation without proportional energy increase.
+Inventive Principles
+Guide toward dynamic system modification and surface property changes.
+Separation Principles
+Enable separation of high and low interaction conditions in time and space.
+Su-Field Analysis
+Suggests reduction of external field via self-generated local effects.
+9 Windows
+Enables exploration of alternative system evolutions at different levels.
+Resource Analysis
+Exploits surface energy and existing microstructures.
+Trends of Evolution
+Indicates evolution toward distributed control systems and reduced external energy input.
+CONCRETE SOLUTION
+An active interface system capable of locally modulating surface energy, promoting contaminant detachment through selective activation and exploitation of existing system resources.
